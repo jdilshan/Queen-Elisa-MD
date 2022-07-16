@@ -94,7 +94,7 @@ global.sp = '🔵'
 ─▀▀▀──▀█▄█▀─▀█▄█▀
 
 👨‍💻 .menu දාල කමාන්ඩ් ටික ගන්න 😇` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
+global.alivelogo = `https://telegra.ph//file/933576485304562ccd699.jpg`
 global.alive =` ♡ _♫__♡
 
 ║║╔║║╔╗ ♫
