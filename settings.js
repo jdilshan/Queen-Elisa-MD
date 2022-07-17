@@ -44,56 +44,49 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph//file/933576485304562ccd699.jpg`
+global.alivelogo = `https://telegra.ph/file/7730debf78ca6deb3dacb.jpg`
 global.alive =`♡ _♫__♡
-
 ║║╔║║╔╗ ♫
-
 ╠╣╠║║║║
-
 ║║╚╚╚╚╝ ♫
 
 𝗛𝗶 𝘂𝘀𝗲𝗿  𝗶 𝗮𝗺 𝗮𝗹𝗶𝘃𝗲 👨‍💻
-
 𝗛𝗼𝘄 𝗮𝗿𝗲 𝘆𝗼𝘂 😇
 
+
+
 ‎╮╰╮╮▕╲╰╮╭╯╱▏╭╭╭╭
-
 ╰╰╮╰╭╱▔▔▔▔╲╮╯╭╯
-
 ┏━┓┏┫╭▅╲╱▅╮┣┓╭║║║
-
 ╰┳╯╰┫┗━╭╮━┛┣╯╯╚╬╝
-
 ╭┻╮╱╰╮╰━━╯╭╯╲┊   ║
-
 ╰┳┫▔╲╰┳━━┳╯╱▔┊   ║
-
 ┈┃╰━━╲▕╲╱▏╱━━━┬╨╮
-
 ┈╰━━╮┊▕╱╲▏┊╭━━┴╥╯
 
 👨‍💻 ɪ ᴀᴍ 🕊️̶꧇⃞⃕⃔Ꭰ𝐼𝐿𝜟 Ᏼ𝛩亇🖤°᭄▸ͦ
 
+
+
 .    ▼￣＞-―-＜￣▼
-
 　　Ｙ　            Ｙ
-
   /\   / 　 ●    o  ●）
-
 ＼  ｜　 つ　    ヽ
 
 𝗛𝗼𝘄 𝗖𝗮𝗻 𝗶 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 👀
 
+
+
+
 ────█▀█▄▄▄▄─────██▄
-
 ────█▀▄▄▄▄█─────█▀▀█
-
 ─▄▄▄█─────█──▄▄▄█
-
 ██▀▄█─▄██▀█─███▀█
-
 ─▀▀▀──▀█▄█▀─▀█▄█▀
+
+
+
+
 
 👨‍💻 .menu දාල කමාන්ඩ් ටික ගන්න 😇 `
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
@@ -107,7 +100,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 🕊️̶꧇⃞⃕⃔Ꭰ𝐼𝐿𝜟 Ᏼ𝛩亇🖤°᭄▸ͦ
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 🕊️̶꧇⃞⃕⃔Ꭰ𝐼𝐿𝜟 Ᏼ𝛩亇🖤°᭄▸ͦ `
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
